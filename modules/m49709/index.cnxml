@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Teorema da Equivalência da Interação</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49709</md:content-id>
+  <md:title>Teorema da Equivalência da Interação</md:title>
+  <md:abstract>O Teorema da Equivalência da Interação (Anderson, 2003) – TEI - constitui um instrumento fundamental para designers instrucionais envolvido na conceção de Web-based Courses. Resultado de amplos trabalhos de investigação em EaD e de muito trabalho junto de estudantes, o TEI foi primeiramente enunciado com duas teses, surgindo mais tarde, em 2010 (Miayzoe, Anderson) as teses 3 e 4. Anderson adota a definição de interação de Wagner (2002), e parte de três formas de interação – estudante/professor, estudante/estudante, estudante/conteúdo – para enunciar o seu Teorema. A expressão Equivalência surge mais tarde (Miayzoe, 2012) da constatação de que um tipo de interação pode ser substituído por qualquer um dos outros sem perda de eficácia educacional.</md:abstract>
+  <md:uuid>8c830a0a-8e42-498f-b3d7-999fac3c9c11</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1167540566744">TEOREMA DA EQUIVALÊNCIA DA INTERAÇÃO – ANDERSON (2003)</para>
+    <para id="import-auto-id1167515991808">Terry Anderson, docente e investigador na Universidade de Athabasca, Alberta, Canadá, enuncia pela primeira vez em 2003 o Teorema da Equivalência, mais tarde designado por Teorema da Equivalência da Interação (TEI) (Miayzoe, 2012) e que postula:</para>
+    <para id="import-auto-id1167516488230">
+      <emphasis effect="italics">“Deep and meaningful formal learning is supported as long as one of the three forms of interaction (student–teacher; student-student; student-content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.</emphasis>
+    </para>
+    <para id="import-auto-id1167526126232"><emphasis effect="italics">High levels of more than one of these three modes will likely provide a more satisfying educational experience, though these experiences may not be as cost or time effective as less interactive learning sequences</emphasis>.”</para>
+    <para id="import-auto-id1167537175428">O teorema resulta de investigação desenvolvida na área do EaD, sistema de ensino que beneficiou da evolução tecnológica que veio a propiciar e favorecer o estabelecimento de interações de forma cada vez mais rápida e fácil, possibilitando aos intervenientes no processo educativo retirar dessa realidade as maiores vantagens para o processo de ensino aprendizagem, suscitando cada vez mais a interatividade, que: “<emphasis effect="italics">(…)appears to emerge from descriptions of technological capability for establishing connections from point to point (or from point to multiple points) in real time.</emphasis>” (Wagner, 2002). No mesmo trabalho Wagner entende interações “<emphasis effect="italics">as reciprocal events requiring two objects and two actions. Interactions occur when these objects and events mutually influence one another”</emphasis>”.</para>
+    <para id="import-auto-id1167515751110">É esta definição de interação que Anderson adota ao postular o TEI (Anderson, 2003).</para>
+    <para id="import-auto-id1167540921266">A expressão Equivalência advém do facto de um designer instrucional poder substituir um tipo de interação por um dos outros sem perda de eficácia educacional, prosseguindo com a sugestão sobre a avaliação do nível de interatividade de que “<emphasis effect="italics">for planning or development purposes, designers are encouraged to build into their programs strategic amounts of each type of interaction, and to develop activities that will encourage this amount of interaction</emphasis>”.</para>
+    <para id="import-auto-id1167541589333">Como Anderson (2003) assinala, já em 1916 Dewey “r<emphasis effect="italics">eferred to a form of internal interaction as the defining component of the educational process that occurs when the student transforms the inert information passed to them from another, and constructs it into knowledge with personal application and value”.</emphasis></para>
+    <para id="import-auto-id1167534922682">Anderson e Garrison (1998) reconhecem que:</para>
+    <para id="import-auto-id1167515087514"> “<emphasis effect="italics">Technologies such as computer-mediated communication and learning networks are making collaborative and personalized learning experiences, at a distance, a reality. These same technologies and the growing pressure to provide quality learning experiences on-campus are also transforming higher education, particularly with regard to the dominance of the lecture.”</emphasis></para>
+    <para id="import-auto-id1167514598288">E prosseguem com:</para>
+    <para id="import-auto-id1167514658120">"<emphasis effect="italics">Proficiency" reflects the ability to construct meaning and the disposition needed to initiate and persist in a learning endeavor. The integrating process is the quality of the communication and collaboration as well as the balance of control among facilitator, learners, and curriculum.</emphasis></para>
+    <para id="import-auto-id1167515036759">
+      <emphasis effect="italics">The quality of the learning outcome is found at the centre (intersection) of the overlapping macro- (teacher, learner, and content) and micro- (independence, support, and proficiency) level educational relationships reflected in Figure 1. If the three control dimensions are in dynamic balance, the resulting learning outcome will be personally meaningful as well as socially worthwhile.”  </emphasis>
+    </para>
+    <para id="eip-422"/><para id="import-auto-id4209665">Partindo destes três tipos de interação mais comuns (estudante-estudante, estudante-professor, estudante-conteúdo) Anderson (2003) alarga a discussão a outros três tipos de interação (professor-professor, professor-conteúdo, conteúdo-conteúdo).</para>
+    <para id="import-auto-id1167514837755">É a partir destas considerações e de muito trabalho junto de estudantes, procurando compreender as vantagens e desvantagens das várias formas de atividades possíveis de serem desenvolvidas em ambientes de aprendizagem presenciais e a distância, que Anderson desenvolve o seu Teorema da Equivalência da Interação.</para>
+    <para id="import-auto-id1167515318789">Prosseguindo o seu trabalho com exemplos de aplicação do teorema da equivalência em diferentes contextos, destacamos o caso dos <emphasis effect="italics">Web-based Courses</emphasis>, à época ainda numa fase muito inicial e que suscitaram em Anderson (2003) a seguinte observação: “<emphasis effect="italics">I am also impressed with the capacity of the Web to support enhanced levels of content interaction, and for autonomous agents to be created to assist both teachers and students in the educational process.”</emphasis></para>
+    <para id="import-auto-id1167515921743">Deve ainda ser destacado o modelo de <emphasis effect="italics">Online Learning</emphasis> proposto por Anderson (2003):</para>
+    <para id="import-auto-id1167542914768">Mais tarde, Miyazoe e Anderson (2010) propõem uma representação visual do Teorema:</para>
+    <para id="import-auto-id1167538675910">Atualmente os meios tecnológicos disponíveis e os diferentes tipos de <emphasis effect="italics">Web-based Courses</emphasis> existentes, de que os MOOCs são o mais recente exemplo, facilitam a interação, potenciando o seu papel na aprendizagem colaborativa. Tal como Miyazoe e Anderson (2010) a evolução tecnológica favorece a produção de investigação com base nas teses postuladas por Anderson no seu TEI, bem como nas teses 3 e 4 avançadas no mesmo artigo:</para>
+    <para id="import-auto-id1167516699178">
+      <emphasis effect="italics">“</emphasis>
+      <emphasis effect="bold">
+        <emphasis effect="italics">Thesis 3</emphasis>
+      </emphasis>
+      <emphasis effect="italics">: Deep and meaningful formal teaching is supported as long as one of the three forms of interaction (teacher–student; teacher–content; teacher–teacher) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.</emphasis>
+    </para>
+    <para id="import-auto-id1167515761444">
+      <emphasis effect="bold">
+        <emphasis effect="italics">Thesis 4</emphasis>
+      </emphasis>
+      <emphasis effect="italics">: Deep and meaningful formal teaching and learning is supported as long as one of the three forms of interaction (content–student; content–teacher; content–content) is at a high level. The other two may be offered at minimal levels, or even eliminated, without degrading the educational experience.”</emphasis>
+    </para>
+    <para id="import-auto-id1167533319665">Anderson (2003) sugere ainda que:</para>
+    <para id="import-auto-id1167526321846">
+      <emphasis effect="italics">“There are a number of other corollaries and implications based on the current post-industrial education context that can be drawn from this theorem, and I have attempted to provide a start at this process in the following lists.</emphasis>
+    </para>
+    <para id="import-auto-id1167516694962">
+      <emphasis effect="italics">Student Interaction</emphasis>
+    </para>
+    <list id="import-auto-id1167537924010" list-type="bulleted">
+      <item>
+        <emphasis effect="italics">Quality educational programming requires high levels of interaction by students in at least one area, and can substitute for minimal to no interaction in the other two. </emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Student-teacher interaction currently has the highest perceived value amongst students, and thus commands highest market value. </emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Some student-teacher interactions can be automated, and thus substituted in whole or part, through the development and use of content resources, and especially those utilizing autonomous teacher agents. This practice migrates Net based forms of student-teacher interaction (emails, conferencing discussion, etc.) to student-content interactions (teacher videos, virtual labs, personalized FAQs, etc.). </emphasis>
+      </item>
+      <item/>
+      <item>
+        <emphasis effect="italics">Most forms of student-content interaction can be recorded and displayed asynchronously to substitute for student-student interaction by time or technology bound students. </emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Student-student interaction is critical for learning designs based upon constructivist learning theories, but less critical to cognitive and behaviorist learning theory based approaches. </emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Student-student interaction is critical for skill proficiency needed for collaborative or cooperative tasks. Thus, most effective learning to reach these goals maximizes student-student interaction. </emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Student-content interaction is most accessible, and most readily adapted, via individualized “student portfolios,” that can influence design, assessment, or delivery customizations (mass customization). </emphasis>
+      </item>
+    </list>
+    <para id="import-auto-id1167531375722">
+      <emphasis effect="italics">Teacher Interaction</emphasis>
+    </para>
+    <list id="import-auto-id1167516477816" list-type="bulleted">
+      <item>
+        <emphasis effect="italics">Traditional approaches to teaching of each discipline, biases teachers towards different mixes of interaction.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Teacher-student interaction is generally the least scalable type of interaction, and thus is usually substituted for by student-content interaction in mass education systems.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Teacher agents can perform many of the functions that currently consume teacher time, especially those of a bookkeeping, clerical, or organizational nature, thus migrating teacher-student and teacher-content interaction to content-student and content-content interaction.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Some teacher interaction can be transformed into learning objects (videos, animations, assessment programs etc.), thus migrating student-teacher interaction to student-content interaction.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">As professional students of their discipline, teachers, need professional development and knowledge building opportunities throughout their careers. Deep and meaningful learning to a professional, requires high levels of interaction in at least one of teacher-teacher; teacher-learner; teacher-content domains. High levels of one, allow for reductions in the other two.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">Teacher-teacher collaboration is critical to the current model of university based research production and evaluation.</emphasis>
+      </item>
+    </list>
+    <para id="import-auto-id1167549257920">
+      <emphasis effect="italics">Content Interaction</emphasis>
+    </para>
+    <list id="import-auto-id1167530551491" list-type="bulleted">
+      <item>
+        <emphasis effect="italics">Content, having only volition ascribed to it by humans, is the most flexible of actors, “willing” to undertake any combination and quantity of interaction.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">The cost and restrictions on value of content interaction is falling much faster than interaction involving the other two forms of interaction (Moore’s and Metcalfe’s Laws), and thus is expanding in all areas, putting a premium value and cost on human based interaction: student-student, student-teacher, and teacher-teacher.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="italics">The semantic Web (Berners-Lee, 1998) provides an environment in which content can be formalized and manipulated, stored, searched, and computed automatically through autonomous agent technologies. Such capacity will allow development of much more useful teacher and learner agents, encouraging migration to content-based forms of interaction.</emphasis>
+      </item>
+      <item/>
+      <item>
+        <emphasis effect="italics">The value of the content is dependent on the extent to which it engages students or teachers in interaction, leading to relevant knowledge construction. There is also a direct relationship between this capacity for interaction and resulting engagement, mindfulness, and motivation.”</emphasis>
+      </item>
+    </list>
+    <para id="import-auto-id1167515259189">Como Anderson (2010) afirma: </para>
+    <para id="import-auto-id1167526009690">“<emphasis effect="italics">Interaction stands at the centre of the educational experience. As distance educators we are both allowed and compelled to use mediated forms of this interaction. In some cases the media is costly and gets in the way of learning. In other cases it can result in hyper learning that easily surpasses non-mediated forms of learning. In all contexts we seek a balance of student-teacher, student-student, and student-content interaction that is cost - and learning-effective</emphasis>.”</para>
+    <para id="import-auto-id1167532750512">Bibliografia</para>
+    <para id="import-auto-id1167516958427">Anderson, T., and Garrison, D.R. (1998). Learning in a networked world: New roles and responsibilities. In C. Gibson (Ed.), <emphasis effect="italics">Distance Learners in Higher Education.</emphasis> (p. 97-112). Madison, WI.: Atwood Publishing. Retrieved from: <link url="http://auspace.athabascau.ca/bitstream/2149/801/1/learning_in_a.pdf"><emphasis effect="underline">http://auspace.athabascau.ca/bitstream/2149/801/1/learning_in_a.pdf</emphasis></link></para>
+    <para id="import-auto-id1167515468262">Anderson, T. (2002) An updated and theoretical rationale for interaction. Posted on ITFORUM on September 20, 2002. Retrived from: <link url="http://itforum.coe.uga.edu/AECT_ITF_PDFS/paper63.pdf"><emphasis effect="underline">http://itforum.coe.uga.edu/AECT_ITF_PDFS/paper63.pdf</emphasis></link>. </para>
+    <para id="import-auto-id1167526447945">Anderson, Terry. (2003) Getting the mix right again: an updated and theoretical rationale for interaction. <emphasis effect="italics">The International Review of Research in Open and Distance Learning</emphasis>, [S.l.], v. 4, n. 2, oct. 2003. ISSN 1492-3831. Retrived from: &lt;<link url="http://www.irrodl.org/index.php/irrodl/article/view/149/230"><emphasis effect="underline">http://www.irrodl.org/index.php/irrodl/article/view/149/230</emphasis></link>&gt;</para>
+    <para id="import-auto-id1167519624513">Miyazoe, T., &amp; Anderson, T. (2010a). The Interaction Equivalency Theorem. <emphasis effect="italics">Journal of Interactive Online Learning </emphasis>(JIOL), Summer, 94-104. Retrieved from: <link url="http://www.ncolr.org/jiol/issues/pdf/9.2.1.pdf"><emphasis effect="underline">http://www.ncolr.org/jiol/issues/pdf/9.2.1.pdf</emphasis></link></para>
+    <para id="import-auto-id1167526893895">Miyazoe, T., &amp; Anderson, T. (2010b). Empirical research on learners’ perceptions: Interaction Equivalency Theorem in blended learning, <emphasis effect="italics">European Journal of Open, Distance and E-Learning</emphasis> (EURODL). Retrieved from: <link url="http://www.eurodl.org/?p=archives&amp;year=2010&amp;halfyear=1&amp;article=397"><emphasis effect="underline">http://www.eurodl.org/?p=archives&amp;year=2010&amp;halfyear=1&amp;article=397</emphasis></link></para>
+    <para id="import-auto-id1167521616184">Miyazoe, T. (2012) Getting the Mix Right Once Again: A Peek into the Interaction Equivalency Theorem and Interaction Design. Posted on 27 February 2012.  ALT Online News Letter. Retrieved from: <link url="http://newsletter.alt.ac.uk/2012/02/getting-the-mix-right-once-again-a-peek-into-the-interaction-equivalency-theorem-and-interaction-design/"><emphasis effect="underline">http://newsletter.alt.ac.uk/2012/02/getting-the-mix-right-once-again-a-peek-into-the-interaction-equivalency-theorem-and-interaction-design/</emphasis></link></para>
+    <para id="import-auto-id1167522801216">Wagner, E.D. (2002). Interactivity: From Agents to Outcomes. <emphasis effect="italics">New Directions for Teaching and Learning</emphasis>. Volume 1997, Issue 71, pages 19–26, Autumn (Fall) 1997</para>
+  </content>
+</document>
