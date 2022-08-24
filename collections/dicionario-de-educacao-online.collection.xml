@@ -1,50 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Manual" authors="Antonio Quintas-Mendes">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11644</md:content-id>
-  <md:title>Dicionário Enciclopédico de Educação Online</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>pt</md:language>
-
-  
-
-  
-  
-  <md:uuid>1dc4a20c-5ff8-461c-882d-10ad6eb274c1</md:uuid>
-<md:slug>dicionario-de-educacao-online</md:slug>
-</metadata>
-
+    <md:content-id>col11644</md:content-id>
+    <md:title>Dicion&#xE1;rio Enciclop&#xE9;dico de Educa&#xE7;&#xE3;o Online</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>pt</md:language>
+    <md:uuid>1dc4a20c-5ff8-461c-882d-10ad6eb274c1</md:uuid>
+    <md:slug>dicionario-de-educacao-online</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m49690"/>
-        
-      
-    
-    
-      <col:module document="m49679"/>
-        
-      
-    
-    
-      <col:module document="m49714"/>
-        
-      
-    
-    
-      <col:module document="m49681"/>
-        
-      
-    
-    
-      <col:module document="m49709"/>
-        
-      
-    
-    
-      <col:module document="m49791"/>
-        
-      
-    
+    <col:module document="m49690"/>
+    <col:module document="m49679"/>
+    <col:module document="m49714"/>
+    <col:module document="m49681"/>
+    <col:module document="m49709"/>
+    <col:module document="m49791"/>
   </col:content>
 </col:collection>
